@@ -25,4 +25,5 @@ This routine is implemented in Keras (Tensorflow as backend), it use the concept
 ![](https://raw.githubusercontent.com/q145492675/DCGANs-DeepConvolutionalGANs-keras/master/DCGANs_keras/training_detail.png)
 
 * Recent result: (After 25000 epochs)
+
 ![](https://raw.githubusercontent.com/q145492675/DeepConvolutionalGANs-DCGANs-keras/master/DCGANs_keras/result/predict/_0.jpg)![](https://raw.githubusercontent.com/q145492675/DeepConvolutionalGANs-DCGANs-keras/master/DCGANs_keras/result/predict/_5.jpg)![](https://github.com/q145492675/DeepConvolutionalGANs-DCGANs-keras/blob/master/DCGANs_keras/result/predict/_9.jpg)![](https://raw.githubusercontent.com/q145492675/DeepConvolutionalGANs-DCGANs-keras/master/DCGANs_keras/result/predict/_8.jpg)
