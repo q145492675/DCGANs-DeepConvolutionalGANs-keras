@@ -8,7 +8,7 @@ This routine is implemented in Keras (Tensorflow as backend), it use the concept
 * Pandas
 * scikit-image
 
-## Discribtion:
+## Description:
 * In this routine, it import the dataset is the identification photo of Asian's people.(6 female and 6 male). The image is shown like that:
 
 ![](https://raw.githubusercontent.com/q145492675/DeepConvolutionalGANs-DCGANs-keras/master/DCGANs_keras/GANs_dataset/girl_7.jpg)![](https://raw.githubusercontent.com/q145492675/DeepConvolutionalGANs-DCGANs-keras/master/DCGANs_keras/GANs_dataset/man_3.jpg)![](https://raw.githubusercontent.com/q145492675/DeepConvolutionalGANs-DCGANs-keras/master/DCGANs_keras/GANs_dataset/man_8.jpg)
