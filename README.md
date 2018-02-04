@@ -20,6 +20,6 @@ This routine is implemented in Keras (Tensorflow as backend), it use the concept
 
 ## Applendix:
 * It is the demo runtine, it still need to be improved.
-* Recent result: (After 2000 epochs)
+* Recent result: (After 15000 epochs)
 
 ![](https://raw.githubusercontent.com/q145492675/DeepConvolutionalGANs-DCGANs-keras/master/DCGANs_keras/result/predict/_0.jpg)![](https://raw.githubusercontent.com/q145492675/DeepConvolutionalGANs-DCGANs-keras/master/DCGANs_keras/result/predict/_5.jpg)![](https://github.com/q145492675/DeepConvolutionalGANs-DCGANs-keras/blob/master/DCGANs_keras/result/predict/_9.jpg)![](https://raw.githubusercontent.com/q145492675/DeepConvolutionalGANs-DCGANs-keras/master/DCGANs_keras/result/predict/_8.jpg)
