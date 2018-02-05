@@ -13,6 +13,8 @@ This routine is implemented in Keras (Tensorflow as backend), it use the concept
 
 ![](https://raw.githubusercontent.com/q145492675/DCGANs-DeepConvolutionalGANs-keras/master/DCGANs-DeepConvolutionalGANs-keras-master/DCGANs_keras/GANs_dataset/girl_11.jpg)![](https://raw.githubusercontent.com/q145492675/DCGANs-DeepConvolutionalGANs-keras/master/DCGANs-DeepConvolutionalGANs-keras-master/DCGANs_keras/GANs_dataset/girl_7.jpg)![](https://raw.githubusercontent.com/q145492675/DCGANs-DeepConvolutionalGANs-keras/master/DCGANs-DeepConvolutionalGANs-keras-master/DCGANs_keras/GANs_dataset/man_2.jpg)
 
+
+
 ## Usage:
 * Download the whole routine.
 * Run `test.py` 
