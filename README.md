@@ -27,7 +27,7 @@ The structure of `Discriminator` and `Generator` in this routine (This is the or
 ## Usage:
 * Download the whole routine.
 * Run `Master.py` 
-* When it finishes training, the fake image created by the `Generator` will save in the folder of `result ` and name as `Generaot.h5`
+* When it finishes training, the fake image created by the `Generator` will save in the folder of `result ` and name as `Generator.h5`
 
 
 ## Applendix:
