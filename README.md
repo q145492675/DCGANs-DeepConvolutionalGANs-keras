@@ -6,6 +6,9 @@ It's an exciting generative network that train as an minmax and zero-sum game, t
 The whole training process can be shown as below:
 ![](https://raw.githubusercontent.com/q145492675/DCGANs-DeepConvolutionalGANs-keras/master/image1.png)
 
+The structure of `Discriminator` and `Generator` in this routine (The import image size is 300*300)
+![](https://raw.githubusercontent.com/q145492675/DCGANs-DeepConvolutionalGANs-keras/master/image2.png)
+![](https://raw.githubusercontent.com/q145492675/DCGANs-DeepConvolutionalGANs-keras/master/image3.png)
 
 ## Requirement:
 * Python 3.5 or higher version
