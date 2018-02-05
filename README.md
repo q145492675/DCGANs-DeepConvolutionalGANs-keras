@@ -17,7 +17,7 @@ This routine is implemented in Keras (Tensorflow as backend), it use the concept
 
 ## Usage:
 * Download the whole routine.
-* Run `test.py` 
+* Run `Master.py` 
 * When it finishes training, the fake image created by the `Generator` will save in the folder of `result (the same path of test.py)`
 
 ## Applendix:
