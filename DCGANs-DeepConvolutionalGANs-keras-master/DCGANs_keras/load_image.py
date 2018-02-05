@@ -2,7 +2,7 @@
 """
 Created on Sun Nov 19 16:11:54 2017
 
-@author: Administrator
+@author: Herman Wu
 """
 
 import cv2
