@@ -18,7 +18,7 @@ The structure of `Discriminator` and `Generator` in this routine (The import ima
 * scikit-image
 
 ## Description:
-* In this routine, it import the dataset is the identification photo of Asian's people.(6 female and 6 male). The image is shown like that:
+* In this routine, the dataset it import is the identification photo of Asian's people.(6 female and 6 male). The image is shown like that:
 
 ![](https://raw.githubusercontent.com/q145492675/DCGANs-DeepConvolutionalGANs-keras/master/DCGANs-DeepConvolutionalGANs-keras-master/DCGANs_keras/GANs_dataset/girl_11.jpg)![](https://raw.githubusercontent.com/q145492675/DCGANs-DeepConvolutionalGANs-keras/master/DCGANs-DeepConvolutionalGANs-keras-master/DCGANs_keras/GANs_dataset/girl_7.jpg)![](https://raw.githubusercontent.com/q145492675/DCGANs-DeepConvolutionalGANs-keras/master/DCGANs-DeepConvolutionalGANs-keras-master/DCGANs_keras/GANs_dataset/man_2.jpg)
 
@@ -27,7 +27,8 @@ The structure of `Discriminator` and `Generator` in this routine (The import ima
 ## Usage:
 * Download the whole routine.
 * Run `Master.py` 
-* When it finishes training, the fake image created by the `Generator` will save in the folder of `result (the same path of test.py)`
+* When it finishes training, the fake image created by the `Generator` will save in the folder of `result ` and name as `Generaot.h5`
+
 
 ## Applendix:
 * It is the demo runtine, it still need to be improved.
