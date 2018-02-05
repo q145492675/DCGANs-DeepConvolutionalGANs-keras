@@ -1,6 +1,11 @@
 # DeepConvolutionalGANs-DCGANs-keras
-This routine is implemented in Keras (Tensorflow as backend), it use the concept of DC-GANs to creat the convincing fake data compare with the import data. GANs(Generative Adversarial Networks) is presented by Ian J.Goodfellows in 2014 `Goodfellow,I.et.al. In:Advances in neural information processing systems. pp.2672-2680 `
-The framework we 
+This routine is implemented in Keras (Tensorflow as backend), it use the concept of DC-GANs to creat the convincing fake data compare with the import data. GANs(Generative Adversarial Networks) is presented by Ian J.Goodfellows in 2014 `Goodfellow,I.et.al. In:Advances in neural information processing systems. pp.2672-2680 ` URL:https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf , 
+
+It's an exciting generative network that train as an minmax and zero-sum game, the whole training process can be described as an example.'Generator', which can be described as a counterfeiter is try his best to create the fake money based on the real money. Meanwhile 'Discriminator', which can be described as a police, will try his best to verify which money is fake or real. Their training processes has extremely conflict between each other, and they will try their best to "overcome" the other one.
+
+The whole training process can be shown as below:
+![](https://raw.githubusercontent.com/q145492675/DCGANs-DeepConvolutionalGANs-keras/master/image1.png)
+
 
 ## Requirement:
 * Python 3.5 or higher version
