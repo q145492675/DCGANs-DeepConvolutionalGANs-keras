@@ -27,8 +27,10 @@ from keras.models import load_model
 
 import load_image
 import GANs_trainning
+import Freeze_Result
 
 if __name__ == '__main__':
+    Freeze_Result.main()
     Base_dir = os.path.dirname(__file__)
     data_dir=Base_dir+'/GANs_dataset'
     coll=load_image.loading(data_dir)
